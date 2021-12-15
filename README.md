@@ -1,6 +1,6 @@
 <img align="right" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="40%" />
 
-### My name is Pedro Tadeu 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+### My name is Pedro Tadeu 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 
 <p><em> Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
