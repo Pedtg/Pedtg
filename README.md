@@ -33,7 +33,8 @@ My biggest goal is to become a Full Stack Developer soon and be in continuous le
 <!--[Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)--> 
 <!--[MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)-->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Pedtg&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedtg&layout=compact)](https://github.com/Pedtg/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=Pedtg&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedtg&layout=compact)](https://github.com/Pedtg/github-readme-stats)
 
   <p align="center"> 
   Visitor count<br>
